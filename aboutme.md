@@ -10,9 +10,14 @@ My name is Pavneet Ghai. I have the following qualities:
 - journey into data science
 
 What else do you need?
+# Big Header
 
-### my history Yet to come...
+## Small Header
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Smallest Header
+
+This is paragraph text, lot to come on this page
+[link to google](https://www.google.com)
+![Eagle Image](https://is3-ssl.mzstatic.com/image/thumb/Purple7/v4/5b/eb/86/5beb8651-7a7b-d1ed-453f-686f57494b0b/source/512x512bb.jpg)
 
 Best option, Visit this About me later... 
