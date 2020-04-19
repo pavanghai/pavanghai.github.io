@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/pavan1.jpg"
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -71,7 +71,7 @@ author:
 social-network-links:
   rss: true
 #  email: "pavanghai@yahoo.com"
-#  facebook: pavneetghai
+  facebook: pavneetghai
   github: pavanghai
 #  twitter: PavneetGhai
 #  linkedin: ghai
